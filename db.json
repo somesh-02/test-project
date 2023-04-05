@@ -1,0 +1,166 @@
+{
+    "users": [
+     {
+         "num": 1,
+         "name": "Bulbasaur",
+         "image": "image/bulbasaur.jpj",
+         "cp": 45,
+         "attack": 49,
+         "defense": 49
+     }
+     ,{
+        "num": 2,
+         "name": "Ivysaur",
+         "image": "images/ivysaur.jpg",
+         "cp": 60,
+          "attack": 62,
+         "defense": 63
+     },
+     {
+         "num": 3,
+        "name": "Venusaur",
+        "image": "images/venusaur.jpg",
+      "cp": 66,
+      "attack": 55,
+      "defense": 77
+     },
+     {
+         "num": 4,
+         "name": "Charmander",
+         "image": "images/charmander.jpg",
+       "cp": 66,
+       "attack": 55,
+       "defense": 77
+     },
+     {
+         "num": 5,
+         "name": "Charmeleon",
+         "image": "images/charmeleon.jpg",
+          "cp": 51,
+          "attack": 34,
+         "defense": 55
+     },
+     {
+         "num": 6,
+         "name": "Charizard",
+         "image": "images/charizard.jpg",
+          "cp": 43,
+          "attack": 78,
+         "defense": 99
+     },
+     {
+         "num": 7,
+         "name": "Squirtle",
+         "image": "images/squirtle.jpg",
+          "cp": 67,
+          "attack": 23,
+         "defense": 56
+     },
+    
+     {
+         "num": 8,
+         "name": "Wartortle",
+         "image": "images/wartortle.jpg",
+          "cp": 42,
+          "attack": 71,
+         "defense": 44 
+     },
+     {
+         "num": 9,
+         "name": "Blastoise",
+         "image": "images/blastoise.jpg",
+          "cp": 67,
+          "attack": 31,
+         "defense": 94 
+     },
+     {
+         "num": 10,
+         "name": "Caterpie",
+        
+        "image": "images/caterpie.jpg",
+          "cp": 56,
+          "attack": 11,
+         "defense": 44 
+     },
+     {
+         "num": 11,
+         "name": "Metapod",
+         "image": "images/metapod.jpg",
+          "cp": 45,
+          "attack": 11,
+         "defense": 44 
+     },
+     {
+         "num": 12,
+         "name": "Butterfree",
+         "image": "images/butterfree.jpg",
+          "cp": 22,
+          "attack": 34,
+         "defense": 37 
+     },
+     {
+         "num": 13,
+         "name": "Weedle",
+         "image": "images/weedle.jpg",
+          "cp": 52,
+          "attack": 67,
+         "defense": 98
+     },
+     {
+         "num": 14,
+         "name": "Kakuna",
+         "image": "images/kakuna.jpg",
+          "cp": 48,
+          "attack": 345,
+         "defense": 86
+     },
+     {
+         "num": 15,
+         "name": "Beedrill",
+         "image": "images/beedrill.jpg",
+          "cp": 48,
+          "attack": 345,
+         "defense": 86
+     },
+     {
+         "num": 16,
+         "name": "Pidgey",
+         "image": "images/pidgey.jpg",
+          "cp": 34,
+          "attack": 68,
+         "defense": 93
+     },
+     {
+         "num": 17,
+         "name": "Pidgeotto",
+         "image": "images/pidgeotto.jpg",
+          "cp": 35,
+          "attack": 12,
+         "defense": 37
+     },
+     {
+         "num": 18,
+         "name": "absol",
+         "image": "images/absol.jpg",
+          "cp": 48,
+          "attack": 55,
+         "defense": 68
+     },
+     {
+         "num": 19,
+         "name": "Rattata",
+         "image": "images/rattata.jpg",
+          "cp": 7,
+          "attack": 87,
+         "defense": 98
+     },
+     {
+         "num": 20,
+         "name": "Raticate",
+         "image": "images/raticate.jpg",
+          "cp": 35,
+          "attack": 35,
+         "defense": 66
+     }
+ ]
+ }
