@@ -1,5 +1,4 @@
-{
-    "users": [
+[
      {
          "num": 1,
          "name": "Bulbasaur",
@@ -163,4 +162,4 @@
          "defense": 66
      }
  ]
- }
+ 
